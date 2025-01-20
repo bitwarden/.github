@@ -37,7 +37,7 @@ Bitwarden Password Manager enables businesses and individuals to protect their o
 </ul>
 Learn more about Bitwarden Password Manager by reading the <a href="https://bitwarden.com/help/bitwarden-security-white-paper/" target="_blank">Bitwarden Security Whitepaper</a>.
 
-## Bitwarden Secrects Manager
+## Bitwarden Secrets Manager
 
 Bitwarden Secrets Manager enables developers, DevOps, and cybersecurity teams to centrally store, manage, and deploy secrets at scale. Use Secrets Manager to:
 <ul>
