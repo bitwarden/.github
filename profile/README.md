@@ -34,6 +34,8 @@ Bitwarden Password Manager enables businesses and individuals to protect their o
 <ul>
     <li><a href="https://github.com/bitwarden/server">server</a> - Bitwarden infrastructure/backend (API, database, Docker, etc).
     <li><a href="https://github.com/bitwarden/clients">clients</a> - Bitwarden client apps (web, browser extension, desktop, and cli).
+    <li><a href="https://github.com/bitwarden/android">android</a> - Bitwarden Android Password Manager & Authenticator apps.
+    <li><a href="https://github.com/bitwarden/ios">ios</a> - Bitwarden iOS Password Manager & Authenticator apps.
 </ul>
 Learn more about Bitwarden Password Manager by reading the <a href="https://bitwarden.com/help/bitwarden-security-white-paper/" target="_blank">Bitwarden Security Whitepaper</a>.
 
